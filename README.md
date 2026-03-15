@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋 I'm Awais Azam
 
-<!--
-**awais-devops/awais-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Learner
+Linux | Git | Docker | Kubernetes | Cloud | AWS | GitHub Actions | Terraform
 
-Here are some ideas to get you started:
+## Skills
+-Linux
+-Git
+-Docker
+-CI/CD
+-AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Currently Learning
+-Kubernetes
+-Terraform
+-Jenkins
